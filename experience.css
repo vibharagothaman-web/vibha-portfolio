@@ -995,6 +995,11 @@
   .art-feed { grid-template-columns: repeat(2, 1fr); gap: 4px; }
 }
 
+.contact {
+  background: #7899c2;
+  color: #fff7e8;
+}
+
 .contact-availability {
   max-width: 720px;
   margin: 0 auto 38px;
@@ -1032,5 +1037,5 @@
 }
 
 .contact-links a:hover {
-  color: var(--cream);
+  color: #fff0bf;
 }
